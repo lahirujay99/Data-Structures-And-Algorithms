@@ -14,8 +14,3 @@ def binary_search(arr, low, high, x):
     else:
         return -1
 
-
-
-git remote add origin https://github.com/lahirujay99/Data-Structures-And-Algorithms.git
-git branch -M main
-git push -u origin main
